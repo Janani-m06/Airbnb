@@ -37,7 +37,13 @@ MongoDb,
 
 PowerBI 
 
+## Libraries Required
 
+- pymongo
+- pandas
+- plotly.express
+- matplotlib.pyplot
+- seaborn
 
 ## Problem Statement:
 
