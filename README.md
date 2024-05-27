@@ -119,6 +119,9 @@ Develop dynamic and interactive visualizations that allow users to filter and dr
 
  Power BI is used to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
 
+## PowerBi Report
+
+<img width="610" alt="airbnbreport" src="https://github.com/Janani-m06/Airbnb/assets/156600141/bcdb3401-084e-42f1-a20b-63038910acbc">
 
 
 
