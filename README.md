@@ -127,7 +127,8 @@ Develop dynamic and interactive visualizations that allow users to filter and dr
 
 ## PowerBi Report
 
-<img width="610" alt="airbnbreport" src="https://github.com/Janani-m06/Airbnb/assets/156600141/bcdb3401-084e-42f1-a20b-63038910acbc">
+<img width="580" alt="Airbnb report" src="https://github.com/Janani-m06/Airbnb/assets/156600141/f9923164-1315-41dc-8759-654989326d24">
+
 
 
 
